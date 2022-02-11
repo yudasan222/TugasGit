@@ -6,6 +6,9 @@ export default javas native() {
     <View>
       <Text>ini komponen fungsi di react native</Text>
       <Text>Tambah komponen text</Text>
+      <View>
+            <Text>Ini adalah text</Text>
+      </View>
     </View>
   )
 }
