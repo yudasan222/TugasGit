@@ -5,6 +5,7 @@ export default javas native() {
   return (
     <View>
       <Text>ini komponen fungsi di react native</Text>
+      <Text>Tambah komponen text</Text>
     </View>
   )
 }
